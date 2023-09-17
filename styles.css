@@ -32,6 +32,7 @@
 
 .logo{
     width:80px;
+    margin-right: 10px;
 }
 
 .logo-container{
@@ -449,19 +450,19 @@ a{
   }
 
   #project1{
-    background-image: url(./images/projects/Project1.png);
+    background-image: url(./images/projects/Doshopping.png);
   }
 
   #project2{
     margin-left:120px;
-    background-image: url(./images/projects/Project2.png);
+    background-image: url(./images/projects/Multishop.png);
   }
   #project3{
-    background-image: url(./images/projects/Project3.png);
+    background-image: url(./images/projects/Craft.png);
   }
   #project4{
     margin-left:120px;
-    background-image: url(./images/projects/Project4.png);
+    background-image: url(./images/projects/Icoder.png);
   }
 
   @media (max-width:1300px) {
